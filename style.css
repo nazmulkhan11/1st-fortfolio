@@ -7,3 +7,21 @@ h1{
 .font{
     color: orange;
 }
+.haf-width{
+
+    width:30%;
+    padding-left: 2%;
+    margin-left: 15%;
+
+}
+.haf-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(\website\1st project\1st-fortfolio\images\top-banner.png);
+    background-repeat:no-repeat;
+}
+
+.section{
+    height: 500px;
+}
