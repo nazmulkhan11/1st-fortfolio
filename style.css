@@ -8,7 +8,12 @@ h1{
 .font{
     color: orange;
 }
-
+p{
+    color: black;
+}
+.style{
+    ;
+}
 .haf-width{
     width: 40%;
     float: left;
@@ -22,8 +27,12 @@ h1{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
+.dream area{
+    background-image: url("/images/pagol2.png");
+    background-repeat: no-repeat;
+}
 section{
-    height: 500px;
+    height: 200px;
 }
 .button-top{
 
