@@ -11,9 +11,6 @@ h1{
 p{
     color: black;
 }
-.style{
-    ;
-}
 .haf-width{
     width: 40%;
     float: left;
@@ -21,7 +18,7 @@ p{
     padding-left: 2%;
 }
 .haf-width img{
-    width: 80%;
+    width: 100%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
@@ -29,7 +26,7 @@ p{
 }
 section{
     height: 500px;
-    padding-bottom: 50px;
+    padding-bottom: 150px;
 }
 .button-top{
 
@@ -41,6 +38,8 @@ section{
     padding: 10px 20px;
     border-radius: 5px;
 }
-.img{
-    padding-right: px;
+.dream-area{
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
