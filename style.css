@@ -43,3 +43,6 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.half-width{
+    padding-inline: 0%;
+}
