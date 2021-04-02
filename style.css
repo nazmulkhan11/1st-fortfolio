@@ -21,18 +21,15 @@ p{
     padding-left: 2%;
 }
 .haf-width img{
-    width: 60%;
+    width: 80%;
 }
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
-.dream area{
-    background-image: url("/images/pagol2.png");
-    background-repeat: no-repeat;
-}
 section{
-    height: 200px;
+    height: 500px;
+    padding-bottom: 50px;
 }
 .button-top{
 
@@ -43,4 +40,7 @@ section{
     font-weight: 700;
     padding: 10px 20px;
     border-radius: 5px;
+}
+.img{
+    padding-right: px;
 }
