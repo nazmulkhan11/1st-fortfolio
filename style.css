@@ -44,13 +44,26 @@ section{
     background-position: right;
 }
 .single-shadow{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 40px rgb(92, 104, 96);
     height: 280px;
+    margin-top: 90px;
 }
 .expected{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
+    background-position: left;
 }
 #full-stak{
-    border-left: 7px solid  gray;
+    border-left: 7px solid  rgb(233, 18, 18);
+    border-image: linear-gradients(180 deg);
+    border-image-slice: 1;
+}
+#stack{
+    border-left: 7px solid blue;
+    border-image: linear-gradients();
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
 }
