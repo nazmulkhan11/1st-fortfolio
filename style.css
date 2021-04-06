@@ -18,8 +18,13 @@ p{
     padding-left: 2%;
 }
 .haf-width img{
-    width: 80%;
+    width: 70%;
 }
+.parra{
+    margin-right: 20px;
+}
+
+
 .top-banner{
     background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
@@ -42,6 +47,10 @@ section{
     background-image: url("images/background.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+.style{
+    margin-top: 130px;
+
 }
 .single-shadow{
     box-shadow: 10px 10px 40px rgb(92, 104, 96);
